@@ -1,0 +1,12 @@
+{
+  "name": "ex",
+  "version": "1.0.0",
+  "main": "webapp.js",
+  "scripts": {
+    "start": "node webapp.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
